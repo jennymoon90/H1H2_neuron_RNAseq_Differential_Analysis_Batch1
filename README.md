@@ -1,5 +1,5 @@
 # H1H2_neuron_RNAseq_Batch1_DA
-Differential analysis on RNA-seq data from H1H1 vs. H2H2 neurons (Batch1)
+Pipeline for differential RNA-seq analysis comparing H1H1 vs. H2H2 iPSC-derived neurons (Batch 1)
 
 ## Pipeline Stages:
 1. Prepocessing of the gene expression count matrix
